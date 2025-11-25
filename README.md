@@ -1,0 +1,1 @@
+Este proyecto es una aplicación de terminal (CLI) desarrollada en Python para gestionar un inventario de productos. Utiliza SQLite como base de datos para el almacenamiento persistente de los datos, demostrando la implementación completa de operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
